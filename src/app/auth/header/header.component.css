@@ -1,0 +1,18 @@
+.navbar{
+    background: #d84f57;
+    padding: 10px 0px 0px 20px;
+    font: 14px ;
+   }
+
+.nav-link{
+    padding: 3px 4px;
+    margin : 0px 5px;
+}
+
+.navbar-brand{
+    margin : -4px 0px 0px ;
+}
+
+.fa-user-circle-o{
+    font-size: 30px;
+}

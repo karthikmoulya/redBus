@@ -1,0 +1,15 @@
+.card{
+    width: 28%;
+    height: 120px;
+    padding-top: 10px;
+}
+
+.card-body{
+   padding: 0px 0px 7px 10px;
+}
+
+form{
+    position: relative;
+    top: -78px;
+    right: -485px;
+}

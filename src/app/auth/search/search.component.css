@@ -1,0 +1,32 @@
+form{
+    position: relative;
+    top: 160px;
+    left: 165px;
+
+}
+
+form input{
+    padding: 8px;
+}
+
+form > button{
+    border-radius: 0;
+    margin: -px 0px;
+    display: inline-block;
+    padding: 9px 20px;
+    position: relative;
+    top : -2px
+    
+}
+
+input[type="date"]{
+    padding: 7px !important;
+}
+ 
+.fa-bus{
+    font-size: 26px;
+    background: white;
+    padding-top: 6px;
+    padding-bottom: 12px;
+}
+ 
